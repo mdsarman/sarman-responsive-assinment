@@ -1,0 +1,112 @@
+
+
+
+
+body{
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Imbue:wght@100;200;300;400;600;700;800;900&display=swap');
+</style>
+
+}
+::-webkit-scrollbar{
+    display: none;
+}
+p{
+    color:#9B9993;
+    font-weight: bold;
+
+}
+.header{
+    background: #FFFBF0;
+    color: #414141;
+    margin:0 auto;
+}
+.jkl{
+    
+}
+
+.first-btn {
+    background: #8FAA28;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+}
+.first-btn span img{
+    width: 18px;
+}
+.menu{
+    backgroun:#FFFFF4;
+    text-align: right;
+    font-weight: bold;
+}
+.icon-img{
+    height: 2px;
+}
+.logo-size{
+    height:30px;
+    width: auto;
+}
+
+.header ul li a{
+    margin-left:10px;
+}
+.nr-img{
+    width: 300px;
+    height: auto;
+    padding: 10px;
+}
+.item-footer{
+    background: #fff;
+    text-align: center;
+}
+.jacket{
+    background: #dddd;
+    border-radius:10px;
+    overflow: hidden;
+    height: 300px;
+
+}
+.card{
+    border: none;
+    padding: 10px 25px;
+    
+}
+.htn{
+    padding: 10px 20px;
+}
+.hedi{
+    font-weight: bold;
+}
+.yellow {
+    color: #FABE4C;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 58px;
+}
+.title-color{
+    color: #363958;
+    font-weight: bold;
+}
+.top-section{
+    padding: 10px 20px;
+}
+.men-jacket{
+    padding: 15px 25px;
+}
+.icon-img{
+    height: 120px;
+}
+.card-p{
+    text-align: justify;
+}
+.end-image{
+    overflow: hidden;
+    width: 100%;
+    
+}
+.footer{
+    background: #414141;
+    color: #8FAA28;
+}
